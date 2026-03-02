@@ -10,3 +10,10 @@ display: flex;
 align-items: center;
 justify-content: center;
 }
+
+p{
+font-size: 30px;
+color: red;
+background-color: black;
+width: 50%;
+}
